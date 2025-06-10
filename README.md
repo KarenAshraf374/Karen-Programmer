@@ -13,7 +13,7 @@
 
 🚀 I'm open to freelance projects and collaboration opportunities.
 
-👨‍💻 All of my projects are available at [Vercel](https://vercel.com/karen-programmer-projects) and [GitHub](https://github.com/KarinAshraf500?tab=repositories).
+👨‍💻 All of my projects are available at [Vercel](https://vercel.com/karen-programmer-projects) and [GitHub](https://github.com/KarenAshraf374).
 
 💬 Ask me about React, Next.js, JavaScript, and APIs.
 
