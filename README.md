@@ -26,9 +26,13 @@
 ### 🚀 Skills
 
 🌐 **Languages**: HTML | CSS | JavaScript | TypeScript
+
 ⚛️ **Frameworks & Libraries**: React.js | Next.js | Node.js | Redux
+
 🎨 **Styling & UI**: Tailwind CSS | Bootstrap CSS | Figma
+
 🗃️ **Version Control**: Git | GitHub | Vercel
+
 🧪 **Testing**: Jest | React Testing Library
 
 ---
