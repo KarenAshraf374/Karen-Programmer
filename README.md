@@ -63,4 +63,4 @@
 ### ✨ Featured Projects
 
 * 🔗 [**Vercel's Live Projects**](https://vercel.com/karen-programmer-projects) - Check out my deployed projects here.
-* 🔗 [**GitHub Repositories**](https://github.com/KarinAshraf500?tab=repositories) - Explore all my code and projects on GitHub.
+* 🔗 [**GitHub Repositories**](https://github.com/KarenAshraf374) - Explore all my code and projects on GitHub.
