@@ -11,8 +11,6 @@
 
 🧠 I enjoy building beautiful, fast, and accessible web applications.
 
-🚀 I'm open to freelance projects and collaboration opportunities.
-
 👨‍💻 All of my projects are available at [Vercel](https://vercel.com/karen-programmer-projects) and [GitHub](https://github.com/KarenAshraf374).
 
 💬 Ask me about React, Next.js, JavaScript, and APIs.
@@ -61,6 +59,4 @@
 ---
 
 ### ✨ Featured Projects
-
-* 🔗 [**Vercel's Live Projects**](https://vercel.com/karen-programmer-projects) - Check out my deployed projects here.
 * 🔗 [**GitHub Repositories**](https://github.com/KarenAshraf374) - Explore all my code and projects on GitHub.
