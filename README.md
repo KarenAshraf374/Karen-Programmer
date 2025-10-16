@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Karen Ashraf</h1>
-<h3 align="center">⚛️ Frontend Developer | React.js | Next.js | JavaScript Enthusiast</h3>
+<h3 align="center">⚛️ Frontend Developer | React.js | Next.js | Angular | WordPress </h3>
 
 ---
 
 ### 💻 About Me
 
-🌱 I’m currently learning **React.js** and **Next.js**, with a focus on **performance optimization** and **advanced React patterns**.
+🌱 I’m currently learning **React.js** , **Next.js**, **Angular** & **WordPress** with a focus on **performance optimization** and **advanced Design patterns**.
 
-💼 I work with **React.js**, **Next.js**, **Node.js**, **REST APIs**, **JavaScript**, **HTML**, **CSS**, **Bootstrap CSS**, **Redux**, **TypeScript**, and **Tailwind CSS**.
+💼 I work with **React.js**, **Next.js**, **Angular**, **WordPress**, **PHP**, **Node.js**, **REST APIs**, **JavaScript**, **HTML**, **CSS**, **Bootstrap CSS**, **Redux**, **TypeScript**, and **Tailwind CSS**.
 
 🧠 I enjoy building beautiful, fast, and accessible web applications.
 
 👨‍💻 All of my projects are available at [GitHub](https://github.com/KarenAshraf374).
 
-💬 Ask me about React, Next.js, JavaScript, and APIs.
+💬 Ask me about React, Next.js, Angular, WordPress, Javascript and APIs.
 
 📫 How to reach me: karinashraf518@gmail.com
 
@@ -28,12 +28,18 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 
 🛠️ **Frameworks & Libraries**:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
+[![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.org/)
+
+⚙️ **State Management**  
+[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org/)
+
 
 🎨 **Styling & UI**:
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
