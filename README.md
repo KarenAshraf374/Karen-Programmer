@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karen Ashraf</h1>
-<h3 align="center">⚛️ Frontend Developer | React.js | Next.js | Angular | WordPress </h3>
+<h3 align="center"> Frontend Developer | React.js | Next.js | Angular | WordPress </h3>
 
 ---
 
@@ -37,7 +37,7 @@
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
 [![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.org/)
 
-⚙️ **State Management**  
+⚙️ **State Management**: 
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org/)
 
 
