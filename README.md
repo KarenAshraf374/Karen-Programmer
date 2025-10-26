@@ -96,5 +96,4 @@ Passionate about creating **impactful digital solutions** that enhance user expe
 
 
 ### ✨ Featured Projects:
-### Explore all my code and projects on GitHub:
 * 🔗 [**GitHub Repositories**](https://github.com/KarenAshraf374) 
