@@ -86,12 +86,6 @@ Passionate about creating **impactful digital solutions** that enhance user expe
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karen ashraf" height="30" width="40" />
   </a>
 </p>
-
-<p align="left" style="font-size:14px;">
-  📫 <strong>Contact Me:</strong> 
-  <a href="mailto:karinashraf518@gmail.com">karinashraf518@gmail.com</a>
-</p>
-
 ---
 
 ### ✨ Featured Projects
