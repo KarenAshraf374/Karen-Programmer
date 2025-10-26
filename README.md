@@ -95,12 +95,7 @@ Passionate about creating **impactful digital solutions** that enhance user expe
   <a href="https://drive.google.com/file/d/1-IRyCSihFrQ15ROSo-UMgTnF0pxQ4ldz/view?usp=drive_link" target="_blank">Click here to open</a>
 </p>
 
-
-
-
-
 ---
-
 
 ### ✨ Featured Projects
 * 🔗 [**GitHub Repositories**](https://github.com/KarenAshraf374) 
