@@ -79,6 +79,7 @@ Passionate about creating **impactful digital solutions** that enhance user expe
 
 
 ---
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/karen-a-b671bb285/" target="blank">
@@ -86,7 +87,11 @@ Passionate about creating **impactful digital solutions** that enhance user expe
   </a>
 </p>
 
-📫 **Contact Me:** [karenashrafdeveloper@gmail.com](mailto:karenashrafdeveloper@gmail.com)
+<p align="left" style="font-size:14px;">
+  📫 <strong>Contact Me:</strong> 
+  <a href="mailto:karinashraf518@gmail.com">karinashraf518@gmail.com</a>
+</p>
+
 ---
 
 
