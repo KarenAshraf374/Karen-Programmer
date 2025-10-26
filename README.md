@@ -85,17 +85,14 @@ Passionate about creating **impactful digital solutions** that enhance user expe
   <a href="https://www.linkedin.com/in/karen-a-b671bb285/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karen ashraf" height="30" width="40" />
   </a>
+  <a href="mailto:karinashraf518@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="gmail" height="30" width="40" />
+  </a>
+  <a href="https://drive.google.com/file/d/YOUR_GOOGLE_DRIVE_LINK_HERE/view?usp=sharing" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/google-drive.svg" alt="cv" height="30" width="40" />
+  </a>
 </p>
 
-<sub>
-<p align="left">
-  📫 <strong>Contact Me:</strong> 
-  <a href="mailto:karinashraf518@gmail.com">karinashraf518@gmail.com</a>
-  <br>
-  🧾 <strong>View My CV:</strong> 
-  <a href="https://drive.google.com/file/d/1-IRyCSihFrQ15ROSo-UMgTnF0pxQ4ldz/view?usp=drive_link" target="_blank">Click here to open</a>
-</p>
-</sub>
 
 
 
