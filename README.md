@@ -15,7 +15,7 @@ Passionate about creating **impactful digital solutions** that enhance user expe
 
 ---
 
-### 🛠️ Full Stack Web Developer: 
+### 🛠️ Full Stack Web Developer
 
 ## 💻 **Frontend**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -87,13 +87,19 @@ Passionate about creating **impactful digital solutions** that enhance user expe
   </a>
 </p>
 
-<p align="left" style="font-size:14px;">
-  📫 <strong>Contact Me:</strong> 
+<sub>
+<p align="left">
+  📫 <strong>Contact Me</strong> 
   <a href="mailto:karinashraf518@gmail.com">karinashraf518@gmail.com</a>
+  <br>
+  🧾 <strong>View My CV</strong> 
+  <a href="https://drive.google.com/file/d/1-IRyCSihFrQ15ROSo-UMgTnF0pxQ4ldz/view?usp=drive_link" target="_blank">Click here to open</a>
 </p>
+</sub>
+
 
 ---
 
 
-### ✨ Featured Projects:
+### ✨ Featured Projects
 * 🔗 [**GitHub Repositories**](https://github.com/KarenAshraf374) 
