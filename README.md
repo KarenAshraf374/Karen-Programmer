@@ -60,8 +60,7 @@ Passionate about creating **impactful digital solutions** that enhance user expe
 
 ---
 
-## 🚀 **Build & Deployment**
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+## 🚀 **Deployment**
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
