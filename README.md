@@ -50,7 +50,6 @@ Passionate about creating **impactful digital solutions** that enhance user expe
 
 ## 🧪 **Testing**
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
@@ -58,11 +57,6 @@ Passionate about creating **impactful digital solutions** that enhance user expe
 ## 🔧 **Version Control**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-## 🐳 **DevOps & Tools**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -74,9 +68,6 @@ Passionate about creating **impactful digital solutions** that enhance user expe
 
 ## 📋 **Project Management & Methodologies**
 ![Agile](https://img.shields.io/badge/-Agile-2496ED?style=flat-square&logo=trello&logoColor=white)
-![Scrum](https://img.shields.io/badge/-Scrum-007ACC?style=flat-square&logo=scrumalliance&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-
 
 ---
 
