@@ -5,13 +5,8 @@
 
 ### 👨‍💻 About Me
 
-Results-driven **Full Stack Web Developer** with over **1 year of hands-on experience** in building **scalable, user-centric web applications** using modern technologies such as **React.js**, **Angular**, **.NET**, and **Salesforce**.  
-
-Proficient in both **frontend and backend development**, with strong expertise in **RESTful API integration**, **database management**, and **performance optimization**.  
-
-Adept at working in **Agile environments**, ensuring clean architecture, maintainable code, and **on-time project delivery**.  
-
-Passionate about creating **impactful digital solutions** that enhance user experience and deliver measurable business value.  
+Results-driven **Full Stack Web Developer** with **1+ years of experience** specializing in **React.js**, **Angular**, **.NET**, and **Salesforce**.  
+Skilled in **full-stack development**, **RESTful API integration**, and **Agile practices**, with a strong focus on **clean architecture**, **high performance**, and **on-time delivery**.
 
 ---
 
