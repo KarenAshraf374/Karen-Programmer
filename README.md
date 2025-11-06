@@ -43,14 +43,12 @@ Committed to **clean architecture**, **high-performance solutions**, and **timel
 
 ## 🔄 State Management (React)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
 ![Context API](https://img.shields.io/badge/-Context%20API-61DAFB?style=flat-square&logo=react&logoColor=white)
 
 ---
 
 ## 🔄 State Management (Flutter)
 ![Provider](https://img.shields.io/badge/-Provider-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/-Riverpod-0B5CAD?style=flat-square&logo=riverpod&logoColor=white)
 ![Bloc](https://img.shields.io/badge/-BLoC-0175C2?style=flat-square&logo=flutter&logoColor=white)
 
 ---
