@@ -1,31 +1,27 @@
 <h1 align="center">Hello Everyone, I'm Karen Ashraf</h1>
-<h3 align="center"> Full Stack Web Developer | React.js | Salesforce </h3>
+<h3 align="center"> Full Stack Web & Mobile Developer | React.js | Flutter </h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-Results-driven **Full Stack Web Developer** with **1+ years of experience** specializing in **React.js** and **Salesforce**.  
-Skilled in **full-stack development**, **RESTful API integration**, and **Agile practices**, with a strong focus on **clean architecture**, **high performance**, and **on-time delivery**.
+Results-driven **Full Stack Web & Mobile Developer** with **1+ years of experience**, specializing in **React.js** for web and **Flutter** for mobile.  
+Skilled in building scalable applications, integrating **RESTful APIs**, and working within **Agile environments**.  
+Committed to **clean architecture**, **high-performance solutions**, and **timely project delivery**.
 
 ---
 
-### 🛠️ Full Stack Web Developer
-
-## 🧠 **Platforms**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-
----
+### 🛠️ Full Stack Web Developer & Mobile Developer
 
 ## 💻 **Frontend**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ---
 
@@ -39,10 +35,13 @@ Skilled in **full-stack development**, **RESTful API integration**, and **Agile 
 
 ## 🗄️ **Database**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
+---
 
 ## 🧪 **Testing**
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-FF4154?style=flat-square&logo=testing-library&logoColor=white)
+![Flutter Test](https://img.shields.io/badge/-Flutter%20Test-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ---
 
