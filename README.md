@@ -13,8 +13,6 @@ Committed to **clean architecture**, **high-performance solutions**, and **timel
 
 ## ✅ Technical Skills
 
----
-
 ## 🌐 Web & Mobile Frameworks
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
