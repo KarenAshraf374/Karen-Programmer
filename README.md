@@ -82,6 +82,7 @@ Committed to **clean architecture**, **high-performance solutions**, and **timel
 ## 📋 Project Management & Collaboration
 ![Agile](https://img.shields.io/badge/-Agile-2496ED?style=flat-square&logo=trello&logoColor=white)
 
+---
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -89,6 +90,8 @@ Committed to **clean architecture**, **high-performance solutions**, and **timel
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karen ashraf" height="30" width="40" />
   </a>
 </p>
+
+---
 
 ### ✨ Featured Projects
 * 🔗 [**GitHub Repositories**](https://github.com/KarenAshraf374) 
