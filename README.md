@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone, I'm Karen Ashraf</h1>
-<h3 align="center"> I'm a Web & Mobile Developer | React.js | Flutter </h3>
+<h3 align="center"> I'm a Web & Mobile Developer in React.js &  Flutter </h3>
 
 ---
 
