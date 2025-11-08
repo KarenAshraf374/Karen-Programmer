@@ -48,13 +48,9 @@ Committed to **clean architecture**, **high-performance solutions**, and **timel
 ![Agile](https://img.shields.io/badge/-Agile-2496ED?style=flat-square&logo=scrumalliance&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-FF6F00?style=flat-square&logo=scrumalliance&logoColor=white)
 
-
----
 ---
 
 ## ✅ **Familiar Skills**
-
----
 
 ## ⚛️ **React Ecosystem**
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
