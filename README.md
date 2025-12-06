@@ -4,9 +4,10 @@
 
 ## 👨‍💻 About Me
 
-Frontend and Mobile Developer experienced in building responsive, high-performance applications using **React.js** and **Flutter**.  
-Skilled in clean architecture, state management, API integration, and delivering user-centered designs.  
-A strong collaborator within **Agile** teams, focused on writing testable, maintainable code and consistently shipping high-quality features.
+Frontend and Mobile Developer experienced in building **responsive, high-performance applications** using **React.js** and **Flutter**.  
+Skilled in **clean architecture**, **state management**, **API integration**, and delivering **user-centered designs**.  
+Strong collaborator within **Agile teams**, focused on **testable, maintainable code** and **shipping features**.
+
 ---
 
 ## ✅ Technical Skills
