@@ -5,9 +5,9 @@
 
 ## 👨‍💻 About Me
 
-Frontend and Mobile Developer experienced in building **responsive, high-performance applications** using **React.js** and **Flutter**.  
+Frontend and Mobile Developer experienced in building **responsive, high-performance applications** using **React.js, Next.js, Flutter,** and the **MERN stack**.  
 Skilled in **clean architecture**, **state management**, **API integration**, and delivering **user-centered designs**.  
-Strong collaborator within **Agile teams**, focused on **testable, maintainable code** and **shipping features**.
+Strong collaborator within **Agile teams**, focused on **testable, maintainable code** and **shipping features** efficiently.
 
 ---
 
