@@ -1,13 +1,13 @@
 <h1 align="center">Hello Everyone, I'm Karen Ashraf</h1>
-<h3 align="center"> React.js & Flutter Developer </h3>
+<h3 align="center"> React.js Web Developer </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-Frontend and Mobile Developer experienced in building **responsive, high-performance applications** using **React.js, Next.js, Flutter,** and the **MERN stack**.  
-Skilled in **clean architecture**, **state management**, **API integration**, and delivering **user-centered designs**.  
-Strong collaborator within **Agile teams**, focused on **testable, maintainable code** and **shipping features** efficiently.
+Junior Web Developer with hands-on experience building and deploying web applications using **React.js** and the **MERN stack**.  
+Skilled in **Agile collaboration**, **REST API integration**, and **state management**, with a strong focus on creating **clean, responsive user interfaces**.  
+A proactive problem-solver committed to **code quality**, **best practices**, and **continuous learning**.
 
 ---
 
@@ -29,12 +29,6 @@ Strong collaborator within **Agile teams**, focused on **testable, maintainable 
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
 ![Context API](https://img.shields.io/badge/-Context%20API-61DAFB?style=flat-square&logo=react&logoColor=white)
 
-### 📱 **Mobile**
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Provider](https://img.shields.io/badge/-Provider-02569B?style=flat-square&logo=flutter&logoColor=white)
-![BLoC](https://img.shields.io/badge/-BLoC-0175C2?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ### ⚙️ **Backend**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -50,7 +44,6 @@ Strong collaborator within **Agile teams**, focused on **testable, maintainable 
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Agile](https://img.shields.io/badge/-Agile-2496ED?style=flat-square&logo=trello&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
